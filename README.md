@@ -1,13 +1,13 @@
 <div align="center">
 
-  # ⚡ Muhammad Abdullah
+  #  Muhammad Abdullah
   ### ** Junior Cloud & DevOps Engineer**
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me:
 
 An ambitious **Cloud & DevOps Engineer** and Computer Engineering student at **University of Engineering and Technology (UET), Lahore**. Dedicated to closing the gap between software engineering and cloud operations by automating infrastructure provisioning, enforcing supply-chain DevSecOps controls, and maintaining resilient, self-healing Kubernetes workloads.
 
@@ -28,8 +28,8 @@ An ambitious **Cloud & DevOps Engineer** and Computer Engineering student at **U
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="55" height="55" />
   &nbsp;&nbsp;
   <!-- Infrastructure as Code -->
-  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="Terraform" width="55" height="55" />
-  &nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" alt="Terraform" width="55" height="55" />
+&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="55" height="55" />
   &nbsp;&nbsp;
   <!-- Cloud & CI/CD -->
@@ -51,7 +51,7 @@ An ambitious **Cloud & DevOps Engineer** and Computer Engineering student at **U
 
 ---
 
-### 🚀 High-Impact Engineering Projects
+###  High-Impact Engineering Projects:
 
 <details open>
 <summary><b>1. GitOps Continuous Delivery with Kubernetes & ArgoCD</b></summary>
