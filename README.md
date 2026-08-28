@@ -1,5 +1,4 @@
 <div align="center">
-
   #  Muhammad Abdullah
   ##  Junior Cloud & DevOps Engineer
 
@@ -17,7 +16,7 @@ An ambitious **Cloud & DevOps Engineer** and Computer Engineering student at **U
 
 ---
 
-### 🛡 DevOps Toolchain & 3D Tech Stack:
+### 🛡 DevOps Tech Stack:
 
 <p align="center">
   <!-- Container & Orchestration -->
