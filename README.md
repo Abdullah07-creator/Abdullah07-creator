@@ -1,7 +1,7 @@
 <div align="center">
 
   #  Muhammad Abdullah
-  ### ** Junior Cloud & DevOps Engineer**
+  ##  Junior Cloud & DevOps Engineer
 
 </div>
 
