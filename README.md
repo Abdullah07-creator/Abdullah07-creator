@@ -13,15 +13,11 @@ An aspiring Cloud & DevOps Engineer passionate about automating infrastructure, 
 
 Tech Stack: Kubernetes, ArgoCD, Helm, Docker, GitHub Actions
 
-Implementation: Packaged a multi-service web application using Helm charts. Implemented a GitHub Actions pipeline to handle automated container builds, security vulnerability scans, and dynamic image tag updates in a dedicated configuration repository. Deployed ArgoCD within the cluster to monitor the repository and drive automated self-healing synchronization.
-
 Impact: Established declarative infrastructure patterns, automated deployment synchronization, and self-healing cluster states.
 
 2. Zero-Touch Infrastructure-as-Code (IaC) Provisioning
 
 Tech Stack: Terraform, AWS (VPC, Subnets, EC2/EKS, RDS, ALB), Ansible, Terragrunt
-
-Implementation: Architected modular Terraform configurations provisioning a multi-tier network featuring public/private subnets, NAT Gateways, Internet Gateways, and Security Groups. Automated post-provisioning configurations, security hardening, and database setups via Ansible playbooks. Implemented remote state locking utilizing AWS S3 and DynamoDB.
 
 Impact: Delivered repeatable production network topologies with concurrent state lock management and zero manual console intervention.
 
@@ -29,15 +25,11 @@ Impact: Delivered repeatable production network topologies with concurrent state
 
 Tech Stack: GitHub Actions, SonarQube, Trivy, Snyk, Docker, Amazon ECR
 
-Implementation: Designed a shift-left CI/CD pipeline triggered on pull requests and pushes. Integrated SonarQube for static application security testing (SAST) alongside Trivy and Snyk to scan Docker base images and third-party dependencies for CVEs. Configured automated deployment blocks upon detection of high or critical severity vulnerabilities.
-
 Impact: Enforced automated security gates and container supply-chain safety prior to artifact registry pushes.
 
 4. End-to-End Observability & Alerting Stack
 
 Tech Stack: Prometheus, Grafana, Loki, Alertmanager, Slack
-
-Implementation: Configured Prometheus to scrape node-level infrastructure metrics and application-level performance metrics. Constructed dynamic Grafana dashboards for real-time visualization and deployed Grafana Loki for centralized microservice log aggregation. Created custom Alertmanager routing rules to stream incident alerts to dedicated Slack channels.
 
 Impact: Enhanced system visibility, reduced mean time to detection (MTTD), and streamlined log traceability across microservices.
 
@@ -45,9 +37,18 @@ Impact: Enhanced system visibility, reduced mean time to detection (MTTD), and s
 
 Tech Stack: AWS (EKS/RDS), GCP (Cloud Run), Docker, Terraform, NGINX Ingress
 
-Implementation: Containerized application workloads and orchestrated zero-downtime release strategies using NGINX Ingress Controllers. Managed stateless microservices across AWS and GCP while targeting an AWS RDS instance for central data persistence. Automated traffic shifting to validate zero-downtime releases.
-
 Impact: Demonstrated application portability, fault tolerance, and multi-cloud infrastructure neutrality.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 📊 GitHub Stats
 📫 Connect with Me
