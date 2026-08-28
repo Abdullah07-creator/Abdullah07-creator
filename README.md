@@ -1,7 +1,7 @@
 <div align="center">
 
   # ⚡ Muhammad Abdullah
-  ### **Undergraduate Computer Engineering Student @ UET Lahore | Junior Cloud & DevOps Engineer**
+  ### ** Junior Cloud & DevOps Engineer**
 
 </div>
 
@@ -21,32 +21,32 @@ An ambitious **Cloud & DevOps Engineer** and Computer Engineering student at **U
 
 <p align="center">
   <!-- Container & Orchestration -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" width="55" height="55" title="Docker" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" alt="Kubernetes" width="55" height="55" title="Kubernetes" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/helm.png" alt="Helm" width="55" height="55" title="Helm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="55" height="55" />
   &nbsp;&nbsp;
   <!-- Infrastructure as Code -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" alt="Terraform" width="55" height="55" title="Terraform" />
+  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="Terraform" width="55" height="55" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ansible.png" alt="Ansible" width="55" height="55" title="Ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="55" height="55" />
   &nbsp;&nbsp;
   <!-- Cloud & CI/CD -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/amazon_web_services.png" alt="AWS" width="55" height="55" title="AWS" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github_actions.png" alt="GitHub Actions" width="55" height="55" title="GitHub Actions" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" alt="Git" width="55" height="55" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" />
   &nbsp;&nbsp;
   <!-- Monitoring & Linux -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/prometheus.png" alt="Prometheus" width="55" height="55" title="Prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="55" height="55" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grafana.png" alt="Grafana" width="55" height="55" title="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="55" height="55" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" alt="Linux" width="55" height="55" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" width="55" height="55" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55" />
 </p>
 
 ---
@@ -102,19 +102,15 @@ An ambitious **Cloud & DevOps Engineer** and Computer Engineering student at **U
 
 ### 📊 GitHub Activity & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Muhammad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" width="48%" alt="Top Languages" />
-</div>
+<!-- Make sure to replace YOUR_GITHUB_USERNAME in both image URLs below with your exact GitHub handle -->
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="97%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" width="48%" alt="Top Languages" />
+</p>
 
 ---
 
 <div align="center">
-  <sub>Designed with precision for Cloud & DevOps Operations • 2026</sub>
+  <sub>Designed for Cloud & DevOps Operations • 2026</sub>
 </div>
