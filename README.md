@@ -100,17 +100,7 @@ An ambitious **Cloud & DevOps Engineer** and Computer Engineering student at **U
 
 ---
 
-### 📊 GitHub Activity & Metrics
+📫 Connect with Me
+LinkedIn: www.linkedin.com/in/abdullah-asghar07
 
-<!-- Make sure to replace YOUR_GITHUB_USERNAME in both image URLs below with your exact GitHub handle -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" width="48%" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-  <sub>Designed for Cloud & DevOps Operations • 2026</sub>
-</div>
+Email: aabdullahmian07@gmail.com
