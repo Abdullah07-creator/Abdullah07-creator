@@ -11,13 +11,13 @@
 
 An ambitious **Junior Cloud & DevOps Engineer** and Computer Engineering student at **University of Engineering and Technology (UET), Lahore**. Dedicated to closing the gap between software engineering and cloud operations by automating infrastructure provisioning, enforcing supply-chain DevSecOps controls, and maintaining resilient, self-healing Kubernetes workloads.
 
-*  ***Degree:*** Bachelor of Science in Computer Engineering — *UET Lahore*
-* 🎯 **Core Focus:** Infrastructure-as-Code (IaC), GitOps Continuous Delivery, Observability, Multi-Cloud Reliability
-* 💡 **Philosophy:** *"If you have to do it manually more than twice, write code to automate it."*
+*  **Degree:** Bachelor of Science in Computer Engineering — *UET Lahore*
+*  **Core Focus:** Infrastructure-as-Code (IaC), GitOps Continuous Delivery, Observability, Multi-Cloud Reliability
+*  **Philosophy:** *"If you have to do it manually more than twice, write code to automate it."*
 
 ---
 
-### 🛡 DevOps Tech Stack:
+###  DevOps Tech Stack:
 
 <p align="center">
   <!-- Container & Orchestration -->
