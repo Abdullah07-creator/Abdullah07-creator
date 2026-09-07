@@ -100,7 +100,7 @@ An ambitious **Junior Cloud & DevOps Engineer** and Computer Engineering student
 
 ---
 
-📫 Connect with Me:
+ Connect with Me:
 
 LinkedIn: www.linkedin.com/in/abdullah-asghar07
 
