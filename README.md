@@ -28,7 +28,8 @@ An ambitious **Junior Cloud & DevOps Engineer** and Computer Engineering student
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="55" height="55" />
   &nbsp;&nbsp;
   <!-- Infrastructure as Code -->
- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" alt="Terraform" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="55" height="55" />
+&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="55" height="55" />
   &nbsp;&nbsp;
   <!-- Cloud & CI/CD -->
